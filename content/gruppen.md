@@ -7,15 +7,15 @@ toc: true
 ---
 ## TNB
 
-| **Gruppe**   | | |         | |        | |         | |       | | | **KTM** |  
-|--------------|-|-|---------|-|--------|-|---------|-|-------|-|-|---------|  
-| **Gruppe 1** | | | Nahlin  | | Rafiki | | Saphira | | Zorro | | | Falena  |  
-| **Gruppe 2** | | | Newt    | | Enola  | | Fiji    | |       | | | Newton  |  
-| **Gruppe 3** | | | Freya   | | Firou  | | Ricola  | |       | | | Crash   |  
-| **Gruppe 4** | | | Cheetah | | Navi   | | Focus   | |       | | | Scilia  |  
-| **Gruppe 5** | | | Jenara  | | Bart   | | Salita  | |       | | | Volt    |  
-| **Gruppe 6** | | | Chihiro | | Flanky | | Totoro  | |       | | | Jenga   |  
-| **Gruppe 7** | | | Tiuri   | | Jukka  | | Fanta   | |       | | | Viva    |  
+| **Gruppe** | | |         | |        | |         | |       | | | **KTM** |  
+|------------|-|-|---------|-|--------|-|---------|-|-------|-|-|---------|  
+| **1**      | | | Nahlin  | | Rafiki | | Saphira | | Zorro | | | Falena  |  
+| **2**      | | | Newt    | | Enola  | | Fiji    | |       | | | Newton  |  
+| **3**      | | | Freya   | | Firou  | | Ricola  | |       | | | Crash   |  
+| **4**      | | | Cheetah | | Navi   | | Focus   | |       | | | Scilia  |  
+| **5**      | | | Jenara  | | Bart   | | Salita  | |       | | | Volt    |  
+| **6**      | | | Chihiro | | Flanky | | Totoro  | |       | | | Jenga   |  
+| **7**      | | | Tiuri   | | Jukka  | | Fanta   | |       | | | Viva    |  
 
 ## RF/Grustu  
  TBA
