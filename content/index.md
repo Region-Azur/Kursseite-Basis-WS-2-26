@@ -4,35 +4,6 @@ layout: page
 permalink: /
 toc: true
 ---
+## Willkommen auf der Webseite für den Basis-WS 2 2026!
 
-# Welcome to Basis WS 2 26
-
-This site is managed by Decap CMS.
-
-## Getting Started
-
-Use Decap CMS to create pages and posts.
-
-### Creating Your First Page
-
-Navigate to the Decap CMS interface to begin creating content.
-
-### Editing Content
-
-All pages can be edited through the content management system.
-
-## Features
-
-This site includes several features:
-
-### Table of Contents
-
-Automatically generated from your page headings.
-
-### Responsive Design
-
-Works on all devices and screen sizes.
-
-## Next Steps
-
-Edit this page in Decap CMS to customize your content.
+Hier findest du alle Infos und Weiteres zum Kurs.
