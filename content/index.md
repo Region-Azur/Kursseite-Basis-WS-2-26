@@ -9,3 +9,11 @@ toc: true
 {% include embed/youtube.html id='dQw4w9WgXcQ' autoplay=true %}
 
 Hier findest du alle Infos und Weiteres zum Kurs.
+
+## Quick Links
+
+[cudesh](https://cudesch.scout.ch/)
+
+TNB
+
+Wanderung
