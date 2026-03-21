@@ -14,6 +14,6 @@ Hier findest du alle Infos und Weiteres zum Kurs.
 
 [cudesh](https://cudesch.scout.ch/)
 
-TNB
+[TNB](/tnb)
 
-Wanderung
+[Wanderung](/wanderung)
