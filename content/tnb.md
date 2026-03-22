@@ -1,7 +1,9 @@
 ---
 title: TNB
-sidebar: false
-sidebar_icon: ""
+sidebar: true
+sidebar_title: TNB
+sidebar_icon: fa-solid fa-globe
+sidebar_order: 4
 toc: true
 ---
 # Teilnehmendenblock
