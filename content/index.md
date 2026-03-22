@@ -12,7 +12,7 @@ Hier findest du alle Infos und Weiteres zum Kurs.
 
 ## Quick Links
 
-[cudesh](https://cudesch.scout.ch/){:target="_blank" rel="noopener noreferrer"}
+[cudesch](https://cudesch.scout.ch/){:target="_blank" rel="noopener noreferrer"}
 
 [TNB](/tnb)
 
