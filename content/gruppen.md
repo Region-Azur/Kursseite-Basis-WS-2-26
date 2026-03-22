@@ -11,17 +11,15 @@ toc: true
 
 | **Gruppe** |     |     |         |     |        |     |         |     |       |     |     | **KTM** |
 | ---------- | --- | --- | ------- | --- | ------ | --- | ------- | --- | ----- | --- | --- | ------- |
-| **1**      |     |     | Nahlin  |     | Rafiki |     | Saphira |     | Zorro |     |     | Falena  |
+| **1**      |     |     | Nahlin  |     | Rafiki |     | Saphira |     |       |     |     | Falena  |
 | **2**      |     |     | Newt    |     | Enola  |     | Fiji    |     |       |     |     | Newton  |
 | **3**      |     |     | Freya   |     | Firou  |     | Ricola  |     |       |     |     | Crash   |
 | **4**      |     |     | Cheetah |     | Navi   |     | Focus   |     |       |     |     | Scilia  |
 | **5**      |     |     | Jenara  |     | Bart   |     | Salita  |     |       |     |     | Volt    |
 | **6**      |     |     | Chihiro |     | Flanky |     | Totoro  |     |       |     |     | Jenga   |
-| **7**      |     |     | Tiuri   |     | Jukka  |     | Fanta   |     |       |     |     | Viva    |
+| **7**      |     |     | Tiuri   |     | Jukka  |     | Fanta   |     | Zorro |     |     | Viva    |
 
 ### Durchführung
-
-![Zuteilung Gruppen](/static/uploads/gruppentnb_zuteilung.png)
 
 ## RF/Grustu
 
