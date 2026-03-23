@@ -21,6 +21,8 @@ toc: true
 
 ### Durchführung
 
+![Gruppenzuteilung](/static/uploads/gruppentnb_zuteilung.png)
+
 ## RF/Grustu
 
  TBA
