@@ -3,6 +3,7 @@ title: Kursadministration
 sidebar: true
 sidebar_title: Kursadministration
 sidebar_icon: fa-solid fa-circle-info
+sidebar_order: 1
 toc: true
 ---
 # Kursadministration
