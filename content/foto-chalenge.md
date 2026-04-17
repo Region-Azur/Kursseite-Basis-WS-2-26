@@ -1,7 +1,7 @@
 ---
-title: Foto-Chalenge
+title: Foto-Challenge
 sidebar: true
-sidebar_title: Foto-Chalenge
+sidebar_title: Foto-Challenge
 sidebar_icon: fa-solid fa-camera
 sidebar_order: 3
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)
 
-### [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)Chalenges
+### [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)Challenges
 
 #### Samstag: On the road again
 
