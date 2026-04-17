@@ -3,6 +3,7 @@ title: Gruppen
 sidebar: true
 sidebar_title: Gruppen
 sidebar_icon: fa-solid fa-users
+sidebar_order: 2
 toc: true
 ---
 ## TNB
