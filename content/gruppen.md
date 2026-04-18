@@ -22,7 +22,7 @@ toc: true
 
 ### Durchführung
 
-![Gruppenzuteilung](/static/uploads/gruppentnb_zuteilung.png)
+![Gruppenzuteilung](/static/uploads/gruppentnb_zuteilung_new.png)
 
 ## RF/Grustu
 
