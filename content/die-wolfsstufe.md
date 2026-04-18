@@ -1,5 +1,5 @@
 ---
-title: Die Wolfsstufe
+title: Die Wolfstufe
 sidebar: true
 sidebar_title: Die Wolfsstufe
 sidebar_icon: fa-solid fa-user
