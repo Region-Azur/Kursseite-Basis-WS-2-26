@@ -1,7 +1,7 @@
 ---
 title: Die Wolfstufe
 sidebar: true
-sidebar_title: Die Wolfsstufe
+sidebar_title: Die Wolfstufe
 sidebar_icon: fa-solid fa-user
 sidebar_order: 5
 toc: true
