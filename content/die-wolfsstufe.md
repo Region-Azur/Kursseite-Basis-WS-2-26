@@ -18,6 +18,10 @@ Wer mit Kindern arbeitet, hat immer wieder herausfordernde Situationen zu bewäl
 
 [Link zur PDF Broschüre](https://pfadi.swiss/media/files/f1/214201de_fuchsli_fordert_heraus_neues_logo.pdf)
 
+![Schnippschanp](/static/uploads/schnippschnapp.jpg "Schnippschnapp")
+
+
+
 ### DINKL – mehr als ein Getreide
 
 DINKL steht für Diversität und Inklusion. [Hier findet ihr eine Sammlung von Merkblättern](https://pfadi.swiss/media/files/79/215101de-merkblatt_diversitaetundinklusioninderpfadi.pdf) zu verschiedenen Themen.
