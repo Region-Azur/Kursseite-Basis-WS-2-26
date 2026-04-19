@@ -10,7 +10,13 @@ toc: true
 
 [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)
 
-### [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)Challenges
+### [](https://pov.camera/qr/C2D7261E-2560-470E-BAC7-30DF4DBFEE24)Challenge of the Day:
+
+#### Sonntag: Actioncam – Hauptsache Sport
+
+Mach ein Foto, dass dich oder andere in Bewegung zeigt. Je aktiver, desto besser!
+
+### vergangene Challenges
 
 #### Samstag: On the road again
 
