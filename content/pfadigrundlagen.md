@@ -60,12 +60,20 @@ Diese Beziehung zeigt sich darin, dass die Kinder lernen, sich in der Natur wohl
 ### Links zu den acht Methoden
 
 [Übersicht](https://cudesch.scout.ch/de/books/pfadiprofil/page/ubersicht-methoden)
+
 [Gesetz & Versprechen](https://cudesch.scout.ch/de/books/pfadiprofil/page/gesetz-und-versprechen)
+
 [Symbolik & Rituale](https://cudesch.scout.ch/de/books/pfadiprofil/page/symbolik-und-rituale)
+
 [Persönlicher Fortschritt](https://cudesch.scout.ch/de/books/pfadiprofil/page/personlicher-fortschritt)
+
 [Lernen durch Handeln](https://cudesch.scout.ch/de/books/pfadiprofil/page/lernen-durch-handeln)
+
 [Leben in der kleinen Gruppe](https://cudesch.scout.ch/de/books/pfadiprofil/page/leben-in-der-kleinen-gruppe)
+
 [Engagement für die Gemeinschaft](https://cudesch.scout.ch/de/books/pfadiprofil/page/engagement-fur-die-gemeinschaft)
+
 [Leben im Freien](https://cudesch.scout.ch/de/books/pfadiprofil/page/leben-im-freien)
+
 [Spiel und Bewegung](https://cudesch.scout.ch/de/books/pfadiprofil/page/spiel-und-bewegung)
 
