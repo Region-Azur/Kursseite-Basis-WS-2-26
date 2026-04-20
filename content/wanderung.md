@@ -18,7 +18,7 @@ toc: true
 
 ### Broschüren
 
-{% include download.html href="/static/uploads/REMOVED" label="Broschüren" variant="primary" new_tab=true %}
+{% include download.html href="/static/uploads/REMOVED" label="LS/T Berg" variant="primary" new_tab=true %}
 
 ### Dokumente
 
