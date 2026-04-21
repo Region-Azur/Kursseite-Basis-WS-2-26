@@ -48,4 +48,11 @@ toc: true
 
 ## Wanderung
 
- TBD
+| **Gruppe** |         |        |         |        |      **KTM**    |
+|----------|---------|--------|---------|--------|---------------|
+| Gruppe 1 | Salita | Newt | Focus    |  Zorro      | Scilia |
+| Gruppe 2 | Totoro | Flanky | Bart  |  Firou | Viva |
+| Gruppe 3 | Saphira   | Chihiro | Fiji   | Fanta | Falena |
+| Gruppe 4 | Ricola | Freya  | Jukka  | Jenara| Newton, Volt |
+| Gruppe 5 | Navi | Rafiki  | Tiuri |   | Crash |
+| Gruppe 6 | Enola | Cheetah | Nahlin   |   | Jenga |
