@@ -26,11 +26,25 @@ toc: true
 
 ## RF/Grustu
 
- TBA
+| **Gruppe** |         |        |         |        |      **KTM**    |
+|----------|---------|--------|---------|--------|---------------|
+| Gruppe 1 | Nahlin  | Flanky | Enola   | Ricola | Viva          |
+| Gruppe 2 | Newt    | Navi   | Saphira | Zorro  | Volt          |
+| Gruppe 3 | Freya   | Rafiki | Fanta   | Bart   | Falena, Crash |
+| Gruppe 4 | Jenara  | Firou  | Focus   | Totoro | Jenga         |
+| Gruppe 5 | Cheetah | Salita | Tiuri   |        | Newton        |
+| Gruppe 6 | Chihiro | Jukka  | Fiji    |        | Scilia        |
 
 ## Ämtli
 
- TBA
+| **Gruppe** |         |        |         |        |
+|----------|---------|--------|---------|--------|
+| Gruppe 1 | Nahlin  | Tiuri  | Fiji    |        |
+| Gruppe 2 | Newt    | Flanky | Focus   |        |
+| Gruppe 3 | Freya   | Salita | Jukka   | Totoro |
+| Gruppe 4 | Jenara  | Navi   | Fanta   | Ricola |
+| Gruppe 5 | Cheetah | Firou  | Saphira | Bart   |
+| Gruppe 6 | Chihiro | Rafiki | Enola   | Zorro  |
 
 ## Wanderung
 
