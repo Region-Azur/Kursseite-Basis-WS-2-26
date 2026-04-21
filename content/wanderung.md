@@ -8,7 +8,7 @@ toc: true
 ---
 # Wanderung
 
-## Sicherheitsüberlegunge
+## Sicherheitsüberlegungen
 
 [Dokumente](<https://pfadi.swiss/media/files/66/2025-0374_mb-unfallpraevention-lst-berg-winter-wasser_de.pdf >)
 
