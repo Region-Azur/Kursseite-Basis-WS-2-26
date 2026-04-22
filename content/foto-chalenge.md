@@ -10,12 +10,11 @@ toc: true
 
 ### Challenge of the Day:
 
-#### Dienstag: Cruiseship day – Erlebnisse auf dem Schiff
+#### Mittwoch: Wandertag – I would walk 500 miles
 
-Auf jeder Kreuzfahrt gehört auch das Leben an Bord dazu. Zeig uns wie du den Tag auf See verbringst. Paddelst du ohne Paddel oder suchst du mit verdeckten Augen etwas am Horizont? Nimm uns mit auf deine Reise über die sieben Weltmeere!
+Basiskurs & Wandertag – der perfekte Match! Zeig dein einzigartiges Wandererlebnis egal ob von unterwegs, dem perfekten Pausenspot oder Lagerfeuer am Abend. Teile deinen Moment des Tages mit uns!
 
-
-### vergangene Challenges
+### vergangene Challenges:
 
 #### Samstag: On the road again
 
@@ -28,3 +27,7 @@ Mach ein Foto, dass dich oder andere in Bewegung zeigt. Je aktiver, desto besser
 #### Montag: Landgang – Zeig die Location
 
 Zu einem richtigen Kreuzfahrtschiff gehört immer auch der Landgang. Zeig darum wie ihr den Tag an der heutigen Inseldestination verbringt! Schliesslich geht es auch mal in den Ferien darum, die Seele baumeln zu lassen.
+
+#### Dienstag: Cruiseship day – Erlebnisse auf dem Schiff
+
+Auf jeder Kreuzfahrt gehört auch das Leben an Bord dazu. Zeig uns wie du den Tag auf See verbringst. Paddelst du ohne Paddel oder suchst du mit verdeckten Augen etwas am Horizont? Nimm uns mit auf deine Reise über die sieben Weltmeere!
