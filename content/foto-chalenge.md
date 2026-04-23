@@ -10,9 +10,9 @@ toc: true
 
 ### Challenge of the Day:
 
-#### Mittwoch: Wandertag – I would walk 500 miles
+#### Donnerstag: Ugly selfie time
 
-Basiskurs & Wandertag – der perfekte Match! Zeig dein einzigartiges Wandererlebnis egal ob von unterwegs, dem perfekten Pausenspot oder Lagerfeuer am Abend. Teile deinen Moment des Tages mit uns!
+Die Wanderung von gestern sitzt dir noch in den Knochen & du bist müde? Kein Problem, auch heute ist dein day to shine! Mit deinem ugly selfie zeigst du uns, dass jeder Tag ein tolles Foto möglich ist!
 
 ### vergangene Challenges:
 
@@ -31,3 +31,7 @@ Zu einem richtigen Kreuzfahrtschiff gehört immer auch der Landgang. Zeig darum 
 #### Dienstag: Cruiseship day – Erlebnisse auf dem Schiff
 
 Auf jeder Kreuzfahrt gehört auch das Leben an Bord dazu. Zeig uns wie du den Tag auf See verbringst. Paddelst du ohne Paddel oder suchst du mit verdeckten Augen etwas am Horizont? Nimm uns mit auf deine Reise über die sieben Weltmeere!
+
+#### Mittwoch: Wandertag – I would walk 500 miles
+
+Basiskurs & Wandertag – der perfekte Match! Zeig dein einzigartiges Wandererlebnis egal ob von unterwegs, dem perfekten Pausenspot oder Lagerfeuer am Abend. Teile deinen Moment des Tages mit uns!
