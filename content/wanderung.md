@@ -12,7 +12,7 @@ toc: true
 
 [Dokumente](<https://pfadi.swiss/media/files/66/2025-0374_mb-unfallpraevention-lst-berg-winter-wasser_de.pdf >)
 
-[Tool "Entscheidungshilfe im Bereich Lagersport/Trekking" ](https://www.jugendundsport.ch/de/sicherheit-REMOVED)
+[Tool "Entscheidungshilfe im Bereich Lagersport/Trekking" ](https://www.jugendundsport.ch/de/sicherheit-lagersport-trekking)
 
 ## Wanderungstheorie
 
